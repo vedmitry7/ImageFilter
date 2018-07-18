@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Image Filters</string>
+    <string name="activity_title_main">Фильтры</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">Фильтры</string>
+    <string name="edit">Редактирование</string>
+
+    <string name="lbl_brightness">Яркрсть</string>
+    <string name="lbl_contrast">Контрастность</string>
+    <string name="lbl_saturation">Насыщенность</string>
+    <string name="tab_filters">Фильтры</string>
+    <string name="tab_edit">Редактирование</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">Заново</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
